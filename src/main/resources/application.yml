@@ -1,0 +1,7 @@
+
+server:
+  port: 8080
+spring:
+  data:
+    mongodb:
+      uri:  mongodb+srv://wallet_db:EYPxUyy8zXmWUk1f@walletcluster0.nechgxs.mongodb.net/dw-wallet-service?retryWrites=true&w=majority
